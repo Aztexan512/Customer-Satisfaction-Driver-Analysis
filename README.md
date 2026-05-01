@@ -5,14 +5,15 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.35+-FF4B4B?logo=streamlit&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-5.x-3F4F75?logo=plotly&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-GradientBoosting-F7931E?logo=scikit-learn&logoColor=white)
-
 ---
-
 ![NPS](https://img.shields.io/badge/NPS-Voice%20of%20Customer-0077B3)
 ![CLTV](https://img.shields.io/badge/CLTV-Financial%20Modeling-08CAA9)
 ![HCAHPS](https://img.shields.io/badge/HCAHPS-Healthcare%20Application-4169E1)
 ![Dataset](https://img.shields.io/badge/Dataset-120K%20Records-lightgrey)
 ![License](https://img.shields.io/badge/License-MIT-green)
+
+---
+
 **40.6% of post-interaction customers become Detractors. This project identifies which ones to contact first, why they scored low, and how to build the business case for a recovery program -- using 120,000 survey responses, a Gradient Boosting model (AUC 0.81), and a live Streamlit dashboard.**
 
 ---
