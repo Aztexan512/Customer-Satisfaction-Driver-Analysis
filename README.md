@@ -11,7 +11,7 @@
 ![Dataset](https://img.shields.io/badge/Dataset-120K%20Records-lightgrey)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-**40.6% of post-interaction customers become Detractors.** This project analyzes 120,000 synthetic survey responses to identify which customers to contact first, why they scored low, and how to build the business case for a recovery program using a Gradient Boosting model (AUC 0.81) and a live Streamlit dashboard.
+**40.6% of post-interaction customers become Detractors.** This project analyzes 120,000 survey responses to identify which customers to contact first, why they scored low, and how to build the business case for a recovery program using a Gradient Boosting model (AUC 0.81) and a live Streamlit dashboard.
 
 ---
 
@@ -238,6 +238,6 @@ Customer-Satisfaction-Driver-Analysis/
 Independent Analytics Consultant | Austin, TX
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/luciano-casillas)
-[![GitHub](https://img.shields.io/badge/GitHub-Aztexan512-lightgrey)](https://github.com/Aztexan512)
+[![GitHub](https://img.shields.io/badge/GitHub-Aztexan512-lightgrey)](https://aztexan512.github.io/)
 
 luciano.casillasjr@outlook.com
